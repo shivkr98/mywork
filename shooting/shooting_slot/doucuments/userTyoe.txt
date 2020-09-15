@@ -1,0 +1,5 @@
+yeah 
+let's keep 0 for admin,
+1 for shooter
+2 for coach
+3 for staff
